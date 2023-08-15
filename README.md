@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roy </h1>
+<h1 align="center">Hi 👋, I'm Roy Amit </h1>
 <h3 align="center">:computer: Second-year Computer Science Student at Bar Ilan University</h3>
 
 - 🌱 I’m currently learning **Operating Systems, Advanced programming**
