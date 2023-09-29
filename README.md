@@ -2,7 +2,7 @@
 <h3 align="center">:computer: Third-year Computer Science Student at Bar Ilan University</h3>
 
 - 🌱 I’m currently learning **Operating Systems, Advanced programming**
-
+- 💬 Ask me about algorithms, data structures, or any programming questions! even riddles excite me.
 - 📫 How to reach me **Royamit1998@gmail.com**
 
 
