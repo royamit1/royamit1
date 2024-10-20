@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Operating Systems, Advanced programming**
 - 💬 Ask me about algorithms, data structures, or any programming questions! even riddles excite me.
-- 📫 How to reach me **Royamit1998@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
